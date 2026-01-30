@@ -1,0 +1,5 @@
+{
+  "name": "InterviewMaster AI",
+  "description": "An intelligent interview trainer that parses your resume to create personalized interview sessions with voice feedback.",
+  "requestFramePermissions": []
+}
